@@ -1,0 +1,9 @@
+clone -> Download do repositorio
+init -> Criar repo
+status -> verificar status do repo
+add -> adicionar arquivos para versionar
+commit -m -> versionar arquivos com mensagem
+log -> ver modificacoes
+remote -> repos online
+push -> salvar local no online
+tag -> nomear os comits
